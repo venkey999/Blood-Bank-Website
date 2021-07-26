@@ -30,15 +30,6 @@ This project is created for two users: Donors/Receivers and Hospitals/Clinics(Do
 3. 'image' and 'jastimage' contains images used in the front end.
 4. 'sql' contains the database file that has to be imported.
 
-## :family_man_woman_boy_boy: Team:
-- Chandana G V - [Chandana](https://github.com/Chandana047)
-- Rithish Reddy - [Rithish](https://github.com/Rithish7007)
-- Balaji Subash - [Subash](https://github.com/gbsubash)
-- SriHarsha - [Harsha](https://github.com/Sriharshajasti123)
-
-## ✉️ Have an issues or a bug? Would like to contact?
-Report [here](https://github.com/Chandana047/Blood-Bank-Management-System/issues)
-
 ## If you liked the project and found it helpful
 Give a start 😄:star:
 
